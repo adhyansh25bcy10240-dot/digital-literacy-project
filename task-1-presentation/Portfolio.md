@@ -2,6 +2,8 @@
 This is my Digital Portfolio setup for the CSE0001 Digital Literacy course. Below it can be seen have selected and updated my profiles on GitHub, LinkedIn, and Kaggle to serve as the foundation of my online professional presence.
 
 # 1. GitHub
+![alt text](image-1.png)
+
 * **Platform Purpose**: GitHub is a industry-standard platform for version control and collaborative software development.
 
 * **Techincal Strategy**: I plan to use this repository as a living portfolio for my technical work. Over the next few years, I will host my Python scripts, contribute to open-source projects, and document my progress in cybersecurity
