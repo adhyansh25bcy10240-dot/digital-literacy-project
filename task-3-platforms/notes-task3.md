@@ -6,6 +6,6 @@
 
 * **Part B**: Collaborative Digital OutreachPlatforms Used: Google Forms & Google Sheets.Activity Description: Acting as a Student Digital Ambassador, I developed a 5-question "Digital Literacy Awareness Quiz" for my peers. The quiz uses a mix of multiple-choice and short-answer questions to test knowledge on critical digital safety topics, such as UPI transaction security, the risks of public Wi-Fi, and the official 1930 reporting helpline.
 
-**Live Form Access**: [Paste your Google Form link here].
+**Live Form Access**: https://forms.gle/KrVwCpwovdHHoKsV6
 
 **Documentation**: Screenshots showing the design of the form and the backend response sheet are stored in the task-3-platforms/folder.
