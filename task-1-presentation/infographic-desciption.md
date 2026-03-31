@@ -1,4 +1,5 @@
-#FIRST TASK(INFOGRAPHIC)
+# FIRST TASK(INFOGRAPHIC)
+
 For the first task, I had to create an infographic for creating awareness about digital literacy. 
 I chose canva which is a popular, user-friendly online graphic design platform that allows users to create social media graphics, presentations, posters, documents, and other visual content. It is a very convenient and free to use tool to a great extent, you can easily get pre-made templates and objects along with assisting image generation which makes the graphic look more appealing. 
 

@@ -44,13 +44,13 @@ Focus: Here you will find evidence of my progress on HackerRank as I build my Py
 
 Live Quiz Link: https://forms.gle/QUsS4FD95GMkzNLg8
 
-3 Task 4: Professional Email and Etiquette
+Task 4: Professional Email and Etiquette
 
 Folder: task-4-email-etiquette/
 
 Focus: This folder contains formal email drafts I wrote for academic and professional scenarios, such as requesting a deadline extension and inquiring about an internship. It also includes a checklist for responsible social media behavior.
 
-3 Task 5: Cybercrime Awareness and Prevention
+ Task 5: Cybercrime Awareness and Prevention
 
 Folder: task-5-cybercrime/
 
